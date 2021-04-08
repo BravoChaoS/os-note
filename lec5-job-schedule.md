@@ -39,7 +39,7 @@
 
 - Scheduling is required because the number of  computing resource –the CPU –is limited.
 
-<img src="/home/jojjiw/Documents/os/os-note/lec5-job-schedule.assets/2021-03-17 15-31-46 的屏幕截图.png" alt="2021-03-17 15-31-46 的屏幕截图" style="zoom:67%;" />
+<img src="lec5-job-schedule.assets/2021-03-17 15-31-46 的屏幕截图.png" alt="2021-03-17 15-31-46 的屏幕截图" style="zoom:67%;" />
 
 ### Scheduling algorithms
 
@@ -67,11 +67,11 @@ one by one
 
 #### Priority Scheduling
 
-<img src="/home/jojjiw/Documents/os/os-note/lec5-job-schedule.assets/2021-03-17 16-53-08 的屏幕截图.png" alt="2021-03-17 16-53-08 的屏幕截图" style="zoom:67%;" />
+<img src="lec5-job-schedule.assets/2021-03-17 16-53-08 的屏幕截图.png" alt="2021-03-17 16-53-08 的屏幕截图" style="zoom:67%;" />
 
 ### Multiple queue priority scheduling
 
-<img src="/home/jojjiw/Documents/os/os-note/lec5-job-schedule.assets/2021-03-24 14-16-48 的屏幕截图.png" alt="2021-03-24 14-16-48 的屏幕截图" style="zoom:80%;" />
+<img src="lec5-job-schedule.assets/2021-03-24 14-16-48 的屏幕截图.png" alt="2021-03-24 14-16-48 的屏幕截图" style="zoom:80%;" />
 
 Maybe this is the "multilevel ..." about Project1 Task3
 
