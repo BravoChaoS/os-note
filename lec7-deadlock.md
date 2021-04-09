@@ -25,8 +25,8 @@ Deadlock -> Starvation, but not vice versa
 
 ### All of four conditions should be satisfied
 
-<img src="/home/jojjiw/Documents/os/os-note/lec7-deadlock.assets/image-20210407153610954.png" alt="image-20210407153610954" style="zoom:80%;" />
+<img src="lec7-deadlock.assets/image-20210407153610954.png" alt="image-20210407153610954" style="zoom:80%;" />
 
 ### ==Cycle != Deadlock==
 
-![image-2021040715365393](/home/jojjiw/Documents/os/os-note/lec7-deadlock.assets/image-20210407153653932.png)
+![image-2021040715365393](lec7-deadlock.assets/image-20210407153653932.png)
