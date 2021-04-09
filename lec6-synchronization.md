@@ -93,4 +93,4 @@ semaphore / pThread_mutex_lock
 - mutex: 保证原子操作
 - p[i]: semaphore, philosopher i 的两根筷子
 
-<img src="/home/jojjiw/Documents/os/os-note/lec6-synchronization.assets/2021-04-07 14-34-24 的屏幕截图.png" alt="2021-04-07 14-34-24 的屏幕截图" style="zoom:80%;" />
+<img src="lec6-synchronization.assets/2021-04-07 14-34-24 的屏幕截图.png" alt="2021-04-07 14-34-24 的屏幕截图" style="zoom:80%;" />
