@@ -16,4 +16,7 @@
 
 **Translation Cache**: TLB (“Translation Lookaside Buffer”)
 
+TLB: 专门给MMU用的Cache
+
 <img src="lec9.assets/image-20210421155148904.png" alt="image-20210421155148904" style="zoom:50%;" />
+
